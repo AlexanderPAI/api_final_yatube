@@ -37,3 +37,7 @@ python3 manage.py migrate
 ```bash
 python3 manage.py runserver
 ```
+
+## Автор:
+Александр Петров
+https://github.com/AlexanderPAI
